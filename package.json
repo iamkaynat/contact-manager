@@ -1,0 +1,14 @@
+{
+  "name": "contactmanager",
+  "version": "1.0.0",
+  "description": "Contact Manager for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unzala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
